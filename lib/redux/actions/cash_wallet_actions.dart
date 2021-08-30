@@ -1001,8 +1001,8 @@ ThunkAction getBusinessListCall({String? communityAddress, bool? isRopsten}) {
         communityAddress = store.state.cashWalletState.communityAddress;
       }
       store.dispatch(StartFetchingBusinessList());
-      Community community =
-          store.state.cashWalletState.communities[communityAddress];
+      Community community = store
+          .state.cashWalletState.communities[communityAddress?.toLowerCase()];
       Token token =
           store.state.cashWalletState.tokens[community.homeTokenAddress];
       bool isOriginRopsten = isRopsten ??
