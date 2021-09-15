@@ -4,9 +4,9 @@
   <channel>
     <title>fuse.cash - Appcast</title>
     <item>
-      <title>Version 0.1.13</title>
-      <description>Minor updates and improvements.</description>
-      <pubDate>Sun, 19 Jul 2021 10:00:00 +0000</pubDate>
+      <title>Version 0.2.2</title>
+      <description>We are happy to present the first big update! - More ways to earn with Fuse cash!</description>
+      <pubDate>Sun, 15 Sep 2021 14:26:00 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=io.fuse.cash" sparkle:version="0.1.13" sparkle:os="android" />
     </item>
   </channel>
