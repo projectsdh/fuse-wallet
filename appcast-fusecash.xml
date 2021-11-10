@@ -4,10 +4,10 @@
   <channel>
     <title>fuse.cash - Appcast</title>
     <item>
-      <title>Version 0.2.8</title>
+      <title>Version 0.2.9</title>
       <description>New! - invite your friends and get a nice reward. A new referral page was added and now you can see in real-time your referrals joining.</description>
-      <pubDate>Sun, 24 Oct 2021 10:40:00 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=io.fuse.cash" sparkle:version="0.2.8" sparkle:os="android" />
+      <pubDate>Sun, 10 Nov 2021 10:40:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=io.fuse.cash" sparkle:version="0.2.9" sparkle:os="android" />
     </item>
   </channel>
 </rss>
