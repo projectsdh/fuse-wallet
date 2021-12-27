@@ -4,10 +4,10 @@
   <channel>
     <title>fuse.cash - Appcast</title>
     <item>
-      <title>Version 0.2.11</title>
+      <title>Version 0.2.18</title>
       <description>Bug fixes.</description>
-      <pubDate>Sun, 15 Nov 2021 21:34:00 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=io.fuse.cash" sparkle:version="0.2.11" sparkle:os="android" />
+      <pubDate>Sun, 27 Dec 2021 14:12:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=io.fuse.cash" sparkle:version="0.2.18" sparkle:os="android" />
     </item>
   </channel>
 </rss>
