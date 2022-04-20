@@ -1,11 +1,12 @@
 import 'dart:core';
 import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:fusecash/features/account/widgets/menu_tile.dart';
+import 'package:fusecash/features/shared/widgets/my_scaffold.dart';
 import 'package:fusecash/generated/l10n.dart';
 import 'package:fusecash/utils/log/log.dart';
 import 'package:fusecash/utils/url.dart';
-import 'package:fusecash/features/shared/widgets/my_scaffold.dart';
 import 'package:rate_my_app/rate_my_app.dart';
 
 class SocialScreen extends StatelessWidget {
@@ -15,7 +16,7 @@ class SocialScreen extends StatelessWidget {
     minLaunches: 1,
     remindDays: 1,
     remindLaunches: 1,
-    googlePlayIdentifier: 'io.fuse.fusecash',
+    googlePlayIdentifier: 'com.dynod.wallet',
     appStoreIdentifier: '1559937899',
   );
 

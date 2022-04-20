@@ -39,6 +39,8 @@ class BiometricUtils {
         return I10n.of(context).face_id;
       case BiometricAuth.touchID:
         return I10n.of(context).touch_id;
+        return I10n.of(context).touch_id;
+
       default:
         return I10n.of(context).touch_id;
     }

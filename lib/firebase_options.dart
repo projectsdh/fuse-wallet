@@ -56,8 +56,10 @@ class DefaultFirebaseOptions {
     projectId: 'fuse-2-0',
     databaseURL: 'https://fuse-2-0.firebaseio.com',
     storageBucket: 'fuse-2-0.appspot.com',
-    androidClientId: '863692183597-0colm33bu1u8hbtacstdpv33pvdjsr8a.apps.googleusercontent.com',
-    iosClientId: '863692183597-dj519lg1gf92k0d41a5pe94bio1k14v8.apps.googleusercontent.com',
-    iosBundleId: 'io.fuse.fusecash',
+    androidClientId:
+        '863692183597-0colm33bu1u8hbtacstdpv33pvdjsr8a.apps.googleusercontent.com',
+    iosClientId:
+        '863692183597-dj519lg1gf92k0d41a5pe94bio1k14v8.apps.googleusercontent.com',
+    iosBundleId: 'com.dynod.wallet',
   );
 }
